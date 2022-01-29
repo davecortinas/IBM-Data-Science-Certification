@@ -1,1 +1,1 @@
-
+Course currently being attended.
