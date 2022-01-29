@@ -1,1 +1,1 @@
-
+This course introduces all the tools used in Data Science including key programming languages to learn and different kinds of software used on a day to day basis. The jupyter file serves as the first instance of working in jupyter notebook and getting familiar with the web environment.
